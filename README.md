@@ -31,7 +31,8 @@ See [GitHub search documentation](https://docs.github.com/en/rest/search) and [r
 
 ## Screenshot
 
-_Screenshot placeholder: add a screenshot of the initial explorer screen here._
+<img width="1900" height="907" alt="image" src="https://github.com/user-attachments/assets/e3c33027-81bd-443a-af16-88bb42381dca" />
+
 
 ## Verification
 
